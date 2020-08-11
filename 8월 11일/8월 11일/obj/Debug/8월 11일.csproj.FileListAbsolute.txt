@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\8월 11일\8월 11일\bin\Debug\8월 11일.exe.config
+C:\Users\user\source\repos\8월 11일\8월 11일\bin\Debug\8월 11일.exe
+C:\Users\user\source\repos\8월 11일\8월 11일\bin\Debug\8월 11일.pdb
+C:\Users\user\source\repos\8월 11일\8월 11일\obj\Debug\8월 11일.csprojAssemblyReference.cache
+C:\Users\user\source\repos\8월 11일\8월 11일\obj\Debug\8월 11일.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\8월 11일\8월 11일\obj\Debug\8월 11일.exe
+C:\Users\user\source\repos\8월 11일\8월 11일\obj\Debug\8월 11일.pdb
