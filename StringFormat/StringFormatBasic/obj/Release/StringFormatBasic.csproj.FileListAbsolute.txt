@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\StringFormat\StringFormatBasic\bin\Release\StringFormatBasic.exe.config
+C:\Users\user\Desktop\StringFormat\StringFormatBasic\bin\Release\StringFormatBasic.exe
+C:\Users\user\Desktop\StringFormat\StringFormatBasic\bin\Release\StringFormatBasic.pdb
+C:\Users\user\Desktop\StringFormat\StringFormatBasic\obj\Release\StringFormatBasic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\StringFormat\StringFormatBasic\obj\Release\StringFormatBasic.exe
+C:\Users\user\Desktop\StringFormat\StringFormatBasic\obj\Release\StringFormatBasic.pdb
