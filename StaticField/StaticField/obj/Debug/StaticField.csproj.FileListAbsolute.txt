@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\StaticField\StaticField\bin\Debug\StaticField.exe.config
+C:\Users\user\Desktop\StaticField\StaticField\bin\Debug\StaticField.exe
+C:\Users\user\Desktop\StaticField\StaticField\bin\Debug\StaticField.pdb
+C:\Users\user\Desktop\StaticField\StaticField\obj\Debug\StaticField.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\StaticField\StaticField\obj\Debug\StaticField.exe
+C:\Users\user\Desktop\StaticField\StaticField\obj\Debug\StaticField.pdb
