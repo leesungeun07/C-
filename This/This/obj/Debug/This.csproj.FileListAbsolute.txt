@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\This\This\bin\Debug\This.exe.config
+C:\Users\user\Desktop\This\This\bin\Debug\This.exe
+C:\Users\user\Desktop\This\This\bin\Debug\This.pdb
+C:\Users\user\Desktop\This\This\obj\Debug\This.csprojAssemblyReference.cache
+C:\Users\user\Desktop\This\This\obj\Debug\This.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\This\This\obj\Debug\This.exe
+C:\Users\user\Desktop\This\This\obj\Debug\This.pdb
