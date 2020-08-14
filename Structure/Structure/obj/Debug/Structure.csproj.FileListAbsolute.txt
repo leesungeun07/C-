@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\user\source\repos\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\user\source\repos\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\user\source\repos\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\user\source\repos\Structure\Structure\obj\Debug\Structure.pdb
