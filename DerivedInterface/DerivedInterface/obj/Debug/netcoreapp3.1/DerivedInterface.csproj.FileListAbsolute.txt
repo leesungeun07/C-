@@ -1,0 +1,4 @@
+D:\leesu\Desktop\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.csprojAssemblyReference.cache
+D:\leesu\Desktop\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.AssemblyInfoInputs.cache
+D:\leesu\Desktop\DerivedInterface\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.AssemblyInfo.cs
