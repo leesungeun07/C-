@@ -1,0 +1,13 @@
+D:\leesu\Desktop\Property\Property\bin\Debug\netcoreapp3.1\Property.exe
+D:\leesu\Desktop\Property\Property\bin\Debug\netcoreapp3.1\Property.deps.json
+D:\leesu\Desktop\Property\Property\bin\Debug\netcoreapp3.1\Property.runtimeconfig.json
+D:\leesu\Desktop\Property\Property\bin\Debug\netcoreapp3.1\Property.runtimeconfig.dev.json
+D:\leesu\Desktop\Property\Property\bin\Debug\netcoreapp3.1\Property.dll
+D:\leesu\Desktop\Property\Property\bin\Debug\netcoreapp3.1\Property.pdb
+D:\leesu\Desktop\Property\Property\obj\Debug\netcoreapp3.1\Property.csprojAssemblyReference.cache
+D:\leesu\Desktop\Property\Property\obj\Debug\netcoreapp3.1\Property.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\Property\Property\obj\Debug\netcoreapp3.1\Property.AssemblyInfoInputs.cache
+D:\leesu\Desktop\Property\Property\obj\Debug\netcoreapp3.1\Property.AssemblyInfo.cs
+D:\leesu\Desktop\Property\Property\obj\Debug\netcoreapp3.1\Property.dll
+D:\leesu\Desktop\Property\Property\obj\Debug\netcoreapp3.1\Property.pdb
+D:\leesu\Desktop\Property\Property\obj\Debug\netcoreapp3.1\Property.genruntimeconfig.cache
