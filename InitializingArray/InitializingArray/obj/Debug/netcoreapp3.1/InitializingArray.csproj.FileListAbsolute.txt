@@ -1,0 +1,4 @@
+D:\leesu\Desktop\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.csprojAssemblyReference.cache
+D:\leesu\Desktop\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.AssemblyInfoInputs.cache
+D:\leesu\Desktop\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.AssemblyInfo.cs

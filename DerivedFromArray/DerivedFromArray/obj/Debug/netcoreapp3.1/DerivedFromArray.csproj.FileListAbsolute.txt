@@ -1,0 +1,12 @@
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.exe
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.deps.json
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.runtimeconfig.json
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.runtimeconfig.dev.json
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.dll
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\bin\Debug\netcoreapp3.1\DerivedFromArray.pdb
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.AssemblyInfoInputs.cache
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.AssemblyInfo.cs
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.dll
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.pdb
+D:\leesu\Desktop\DerivedFromArray\DerivedFromArray\obj\Debug\netcoreapp3.1\DerivedFromArray.genruntimeconfig.cache

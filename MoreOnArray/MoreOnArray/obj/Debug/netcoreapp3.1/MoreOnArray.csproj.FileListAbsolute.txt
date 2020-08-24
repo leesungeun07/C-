@@ -1,0 +1,13 @@
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.exe
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.deps.json
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.runtimeconfig.json
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.runtimeconfig.dev.json
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.dll
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.pdb
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.csprojAssemblyReference.cache
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.AssemblyInfoInputs.cache
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.AssemblyInfo.cs
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.dll
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.pdb
+D:\leesu\Desktop\MoreOnArray\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.genruntimeconfig.cache

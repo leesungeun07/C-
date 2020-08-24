@@ -1,0 +1,12 @@
+D:\leesu\Desktop\2DArray\2DArray\bin\Debug\netcoreapp3.1\2DArray.exe
+D:\leesu\Desktop\2DArray\2DArray\bin\Debug\netcoreapp3.1\2DArray.deps.json
+D:\leesu\Desktop\2DArray\2DArray\bin\Debug\netcoreapp3.1\2DArray.runtimeconfig.json
+D:\leesu\Desktop\2DArray\2DArray\bin\Debug\netcoreapp3.1\2DArray.runtimeconfig.dev.json
+D:\leesu\Desktop\2DArray\2DArray\bin\Debug\netcoreapp3.1\2DArray.dll
+D:\leesu\Desktop\2DArray\2DArray\bin\Debug\netcoreapp3.1\2DArray.pdb
+D:\leesu\Desktop\2DArray\2DArray\obj\Debug\netcoreapp3.1\2DArray.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\2DArray\2DArray\obj\Debug\netcoreapp3.1\2DArray.AssemblyInfoInputs.cache
+D:\leesu\Desktop\2DArray\2DArray\obj\Debug\netcoreapp3.1\2DArray.AssemblyInfo.cs
+D:\leesu\Desktop\2DArray\2DArray\obj\Debug\netcoreapp3.1\2DArray.dll
+D:\leesu\Desktop\2DArray\2DArray\obj\Debug\netcoreapp3.1\2DArray.pdb
+D:\leesu\Desktop\2DArray\2DArray\obj\Debug\netcoreapp3.1\2DArray.genruntimeconfig.cache
