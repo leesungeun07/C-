@@ -1,0 +1,12 @@
+D:\leesu\Desktop\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.exe
+D:\leesu\Desktop\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.deps.json
+D:\leesu\Desktop\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.json
+D:\leesu\Desktop\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.dev.json
+D:\leesu\Desktop\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.dll
+D:\leesu\Desktop\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.pdb
+D:\leesu\Desktop\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfoInputs.cache
+D:\leesu\Desktop\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfo.cs
+D:\leesu\Desktop\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.dll
+D:\leesu\Desktop\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.pdb
+D:\leesu\Desktop\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.genruntimeconfig.cache
