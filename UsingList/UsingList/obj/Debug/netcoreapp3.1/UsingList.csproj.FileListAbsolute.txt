@@ -1,0 +1,13 @@
+D:\leesu\Desktop\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.csprojAssemblyReference.cache
+D:\leesu\Desktop\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.AssemblyInfoInputs.cache
+D:\leesu\Desktop\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.AssemblyInfo.cs
+D:\leesu\Desktop\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.exe
+D:\leesu\Desktop\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.deps.json
+D:\leesu\Desktop\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.runtimeconfig.json
+D:\leesu\Desktop\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.runtimeconfig.dev.json
+D:\leesu\Desktop\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.dll
+D:\leesu\Desktop\UsingList\UsingList\bin\Debug\netcoreapp3.1\UsingList.pdb
+D:\leesu\Desktop\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.dll
+D:\leesu\Desktop\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.pdb
+D:\leesu\Desktop\UsingList\UsingList\obj\Debug\netcoreapp3.1\UsingList.genruntimeconfig.cache

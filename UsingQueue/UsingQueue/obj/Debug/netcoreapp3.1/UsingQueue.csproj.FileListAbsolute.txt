@@ -1,0 +1,12 @@
+D:\leesu\Desktop\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.exe
+D:\leesu\Desktop\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.deps.json
+D:\leesu\Desktop\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.runtimeconfig.json
+D:\leesu\Desktop\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.runtimeconfig.dev.json
+D:\leesu\Desktop\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.dll
+D:\leesu\Desktop\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.pdb
+D:\leesu\Desktop\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.AssemblyInfoInputs.cache
+D:\leesu\Desktop\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.AssemblyInfo.cs
+D:\leesu\Desktop\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.dll
+D:\leesu\Desktop\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.pdb
+D:\leesu\Desktop\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.genruntimeconfig.cache
