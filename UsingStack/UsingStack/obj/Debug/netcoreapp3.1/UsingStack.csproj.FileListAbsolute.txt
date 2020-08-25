@@ -1,0 +1,12 @@
+D:\leesu\Desktop\UsingStack\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.exe
+D:\leesu\Desktop\UsingStack\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.deps.json
+D:\leesu\Desktop\UsingStack\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.runtimeconfig.json
+D:\leesu\Desktop\UsingStack\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.runtimeconfig.dev.json
+D:\leesu\Desktop\UsingStack\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.dll
+D:\leesu\Desktop\UsingStack\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.pdb
+D:\leesu\Desktop\UsingStack\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\UsingStack\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.AssemblyInfoInputs.cache
+D:\leesu\Desktop\UsingStack\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.AssemblyInfo.cs
+D:\leesu\Desktop\UsingStack\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.dll
+D:\leesu\Desktop\UsingStack\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.pdb
+D:\leesu\Desktop\UsingStack\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.genruntimeconfig.cache

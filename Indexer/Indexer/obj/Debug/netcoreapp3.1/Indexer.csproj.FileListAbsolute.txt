@@ -1,0 +1,12 @@
+D:\leesu\Desktop\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+D:\leesu\Desktop\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+D:\leesu\Desktop\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+D:\leesu\Desktop\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+D:\leesu\Desktop\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+D:\leesu\Desktop\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+D:\leesu\Desktop\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+D:\leesu\Desktop\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+D:\leesu\Desktop\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+D:\leesu\Desktop\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+D:\leesu\Desktop\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache
