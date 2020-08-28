@@ -1,0 +1,13 @@
+D:\leesu\Desktop\CopyingArray\CopyingArray\bin\Debug\netcoreapp3.1\CopyingArray.exe
+D:\leesu\Desktop\CopyingArray\CopyingArray\bin\Debug\netcoreapp3.1\CopyingArray.deps.json
+D:\leesu\Desktop\CopyingArray\CopyingArray\bin\Debug\netcoreapp3.1\CopyingArray.runtimeconfig.json
+D:\leesu\Desktop\CopyingArray\CopyingArray\bin\Debug\netcoreapp3.1\CopyingArray.runtimeconfig.dev.json
+D:\leesu\Desktop\CopyingArray\CopyingArray\bin\Debug\netcoreapp3.1\CopyingArray.dll
+D:\leesu\Desktop\CopyingArray\CopyingArray\bin\Debug\netcoreapp3.1\CopyingArray.pdb
+D:\leesu\Desktop\CopyingArray\CopyingArray\obj\Debug\netcoreapp3.1\CopyingArray.csprojAssemblyReference.cache
+D:\leesu\Desktop\CopyingArray\CopyingArray\obj\Debug\netcoreapp3.1\CopyingArray.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\CopyingArray\CopyingArray\obj\Debug\netcoreapp3.1\CopyingArray.AssemblyInfoInputs.cache
+D:\leesu\Desktop\CopyingArray\CopyingArray\obj\Debug\netcoreapp3.1\CopyingArray.AssemblyInfo.cs
+D:\leesu\Desktop\CopyingArray\CopyingArray\obj\Debug\netcoreapp3.1\CopyingArray.dll
+D:\leesu\Desktop\CopyingArray\CopyingArray\obj\Debug\netcoreapp3.1\CopyingArray.pdb
+D:\leesu\Desktop\CopyingArray\CopyingArray\obj\Debug\netcoreapp3.1\CopyingArray.genruntimeconfig.cache

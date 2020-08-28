@@ -1,0 +1,12 @@
+D:\leesu\Desktop\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.exe
+D:\leesu\Desktop\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.deps.json
+D:\leesu\Desktop\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+D:\leesu\Desktop\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+D:\leesu\Desktop\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.dll
+D:\leesu\Desktop\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.pdb
+D:\leesu\Desktop\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+D:\leesu\Desktop\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+D:\leesu\Desktop\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.dll
+D:\leesu\Desktop\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
+D:\leesu\Desktop\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache

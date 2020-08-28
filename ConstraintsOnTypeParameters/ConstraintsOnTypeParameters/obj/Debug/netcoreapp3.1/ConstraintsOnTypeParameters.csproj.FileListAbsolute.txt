@@ -1,0 +1,12 @@
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.exe
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.deps.json
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.runtimeconfig.json
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.runtimeconfig.dev.json
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.dll
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.pdb
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.AssemblyInfoInputs.cache
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.AssemblyInfo.cs
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.dll
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.pdb
+D:\leesu\Desktop\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.genruntimeconfig.cache
