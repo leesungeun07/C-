@@ -1,0 +1,12 @@
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\bin\Debug\netcoreapp3.1\UsingGenenricStack.exe
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\bin\Debug\netcoreapp3.1\UsingGenenricStack.deps.json
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\bin\Debug\netcoreapp3.1\UsingGenenricStack.runtimeconfig.json
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\bin\Debug\netcoreapp3.1\UsingGenenricStack.runtimeconfig.dev.json
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\bin\Debug\netcoreapp3.1\UsingGenenricStack.dll
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\bin\Debug\netcoreapp3.1\UsingGenenricStack.pdb
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\obj\Debug\netcoreapp3.1\UsingGenenricStack.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\obj\Debug\netcoreapp3.1\UsingGenenricStack.AssemblyInfoInputs.cache
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\obj\Debug\netcoreapp3.1\UsingGenenricStack.AssemblyInfo.cs
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\obj\Debug\netcoreapp3.1\UsingGenenricStack.dll
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\obj\Debug\netcoreapp3.1\UsingGenenricStack.pdb
+D:\leesu\Desktop\UsingGenenricStack\UsingGenenricStack\obj\Debug\netcoreapp3.1\UsingGenenricStack.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\bin\Debug\netcoreapp3.1\UsingGenericList.exe
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\bin\Debug\netcoreapp3.1\UsingGenericList.deps.json
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\bin\Debug\netcoreapp3.1\UsingGenericList.runtimeconfig.json
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\bin\Debug\netcoreapp3.1\UsingGenericList.runtimeconfig.dev.json
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\bin\Debug\netcoreapp3.1\UsingGenericList.dll
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\bin\Debug\netcoreapp3.1\UsingGenericList.pdb
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\obj\Debug\netcoreapp3.1\UsingGenericList.csprojAssemblyReference.cache
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\obj\Debug\netcoreapp3.1\UsingGenericList.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\obj\Debug\netcoreapp3.1\UsingGenericList.AssemblyInfoInputs.cache
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\obj\Debug\netcoreapp3.1\UsingGenericList.AssemblyInfo.cs
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\obj\Debug\netcoreapp3.1\UsingGenericList.dll
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\obj\Debug\netcoreapp3.1\UsingGenericList.pdb
+D:\leesu\Desktop\UsingGenericList\UsingGenericList\obj\Debug\netcoreapp3.1\UsingGenericList.genruntimeconfig.cache
