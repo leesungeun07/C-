@@ -1,0 +1,12 @@
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.exe
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.deps.json
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.runtimeconfig.json
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.runtimeconfig.dev.json
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.dll
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.pdb
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.AssemblyInfoInputs.cache
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.AssemblyInfo.cs
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.dll
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.pdb
+D:\leesu\Desktop\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.genruntimeconfig.cache
