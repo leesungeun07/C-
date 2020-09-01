@@ -1,0 +1,12 @@
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\bin\Debug\netcoreapp3.1\ThrowExpression.exe
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\bin\Debug\netcoreapp3.1\ThrowExpression.deps.json
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\bin\Debug\netcoreapp3.1\ThrowExpression.runtimeconfig.json
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\bin\Debug\netcoreapp3.1\ThrowExpression.runtimeconfig.dev.json
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\bin\Debug\netcoreapp3.1\ThrowExpression.dll
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\bin\Debug\netcoreapp3.1\ThrowExpression.pdb
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\obj\Debug\netcoreapp3.1\ThrowExpression.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\obj\Debug\netcoreapp3.1\ThrowExpression.AssemblyInfoInputs.cache
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\obj\Debug\netcoreapp3.1\ThrowExpression.AssemblyInfo.cs
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\obj\Debug\netcoreapp3.1\ThrowExpression.dll
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\obj\Debug\netcoreapp3.1\ThrowExpression.pdb
+D:\leesu\Desktop\ThrowExpression\ThrowExpression\obj\Debug\netcoreapp3.1\ThrowExpression.genruntimeconfig.cache

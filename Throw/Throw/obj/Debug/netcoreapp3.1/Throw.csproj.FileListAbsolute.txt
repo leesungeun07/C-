@@ -1,0 +1,12 @@
+D:\leesu\Desktop\Throw\Throw\bin\Debug\netcoreapp3.1\Throw.exe
+D:\leesu\Desktop\Throw\Throw\bin\Debug\netcoreapp3.1\Throw.deps.json
+D:\leesu\Desktop\Throw\Throw\bin\Debug\netcoreapp3.1\Throw.runtimeconfig.json
+D:\leesu\Desktop\Throw\Throw\bin\Debug\netcoreapp3.1\Throw.runtimeconfig.dev.json
+D:\leesu\Desktop\Throw\Throw\bin\Debug\netcoreapp3.1\Throw.dll
+D:\leesu\Desktop\Throw\Throw\bin\Debug\netcoreapp3.1\Throw.pdb
+D:\leesu\Desktop\Throw\Throw\obj\Debug\netcoreapp3.1\Throw.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\Throw\Throw\obj\Debug\netcoreapp3.1\Throw.AssemblyInfoInputs.cache
+D:\leesu\Desktop\Throw\Throw\obj\Debug\netcoreapp3.1\Throw.AssemblyInfo.cs
+D:\leesu\Desktop\Throw\Throw\obj\Debug\netcoreapp3.1\Throw.dll
+D:\leesu\Desktop\Throw\Throw\obj\Debug\netcoreapp3.1\Throw.pdb
+D:\leesu\Desktop\Throw\Throw\obj\Debug\netcoreapp3.1\Throw.genruntimeconfig.cache
