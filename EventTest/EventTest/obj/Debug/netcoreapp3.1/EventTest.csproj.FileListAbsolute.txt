@@ -1,0 +1,12 @@
+D:\leesu\Desktop\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.exe
+D:\leesu\Desktop\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.deps.json
+D:\leesu\Desktop\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.runtimeconfig.json
+D:\leesu\Desktop\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.runtimeconfig.dev.json
+D:\leesu\Desktop\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.dll
+D:\leesu\Desktop\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.pdb
+D:\leesu\Desktop\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.AssemblyInfoInputs.cache
+D:\leesu\Desktop\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.AssemblyInfo.cs
+D:\leesu\Desktop\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.dll
+D:\leesu\Desktop\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.pdb
+D:\leesu\Desktop\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.genruntimeconfig.cache
