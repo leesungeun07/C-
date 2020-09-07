@@ -1,0 +1,13 @@
+D:\leesu\Desktop\LINQTest\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.csprojAssemblyReference.cache
+D:\leesu\Desktop\LINQTest\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\LINQTest\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.AssemblyInfoInputs.cache
+D:\leesu\Desktop\LINQTest\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.AssemblyInfo.cs
+D:\leesu\Desktop\LINQTest\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.exe
+D:\leesu\Desktop\LINQTest\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.deps.json
+D:\leesu\Desktop\LINQTest\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.runtimeconfig.json
+D:\leesu\Desktop\LINQTest\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.runtimeconfig.dev.json
+D:\leesu\Desktop\LINQTest\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.dll
+D:\leesu\Desktop\LINQTest\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.pdb
+D:\leesu\Desktop\LINQTest\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.dll
+D:\leesu\Desktop\LINQTest\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.pdb
+D:\leesu\Desktop\LINQTest\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\bin\Debug\netcoreapp3.1\SimpleLinq.exe
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\bin\Debug\netcoreapp3.1\SimpleLinq.deps.json
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\bin\Debug\netcoreapp3.1\SimpleLinq.runtimeconfig.json
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\bin\Debug\netcoreapp3.1\SimpleLinq.runtimeconfig.dev.json
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\bin\Debug\netcoreapp3.1\SimpleLinq.dll
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\bin\Debug\netcoreapp3.1\SimpleLinq.pdb
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\obj\Debug\netcoreapp3.1\SimpleLinq.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\obj\Debug\netcoreapp3.1\SimpleLinq.AssemblyInfoInputs.cache
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\obj\Debug\netcoreapp3.1\SimpleLinq.AssemblyInfo.cs
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\obj\Debug\netcoreapp3.1\SimpleLinq.dll
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\obj\Debug\netcoreapp3.1\SimpleLinq.pdb
+D:\leesu\Desktop\SimpleLinq\SimpleLinq\obj\Debug\netcoreapp3.1\SimpleLinq.genruntimeconfig.cache

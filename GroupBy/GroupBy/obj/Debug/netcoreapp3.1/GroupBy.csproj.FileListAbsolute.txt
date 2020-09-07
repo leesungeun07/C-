@@ -1,0 +1,13 @@
+D:\leesu\Desktop\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.exe
+D:\leesu\Desktop\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.deps.json
+D:\leesu\Desktop\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.runtimeconfig.json
+D:\leesu\Desktop\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.runtimeconfig.dev.json
+D:\leesu\Desktop\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.dll
+D:\leesu\Desktop\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.pdb
+D:\leesu\Desktop\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.csprojAssemblyReference.cache
+D:\leesu\Desktop\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.csproj.CoreCompileInputs.cache
+D:\leesu\Desktop\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.AssemblyInfoInputs.cache
+D:\leesu\Desktop\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.AssemblyInfo.cs
+D:\leesu\Desktop\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.dll
+D:\leesu\Desktop\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.pdb
+D:\leesu\Desktop\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.genruntimeconfig.cache
