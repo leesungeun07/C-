@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\UsingApplication\UsingApplication\bin\Debug\UsingApplication.exe.config
+C:\Users\user\Desktop\UsingApplication\UsingApplication\bin\Debug\UsingApplication.exe
+C:\Users\user\Desktop\UsingApplication\UsingApplication\bin\Debug\UsingApplication.pdb
+C:\Users\user\Desktop\UsingApplication\UsingApplication\obj\Debug\UsingApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UsingApplication\UsingApplication\obj\Debug\UsingApplication.exe
+C:\Users\user\Desktop\UsingApplication\UsingApplication\obj\Debug\UsingApplication.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\FormAndConttol\FormAndConttol\bin\Debug\FormAndConttol.exe.config
+C:\Users\user\Desktop\FormAndConttol\FormAndConttol\bin\Debug\FormAndConttol.exe
+C:\Users\user\Desktop\FormAndConttol\FormAndConttol\bin\Debug\FormAndConttol.pdb
+C:\Users\user\Desktop\FormAndConttol\FormAndConttol\obj\Debug\FormAndConttol.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FormAndConttol\FormAndConttol\obj\Debug\FormAndConttol.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FormAndConttol\FormAndConttol\obj\Debug\FormAndConttol.exe
+C:\Users\user\Desktop\FormAndConttol\FormAndConttol\obj\Debug\FormAndConttol.pdb
